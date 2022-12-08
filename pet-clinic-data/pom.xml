@@ -9,8 +9,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<properties>
-		<java.version>17</java.version>
+		<spring-boot.repackage.skip>true</spring-boot.repackage.skip>
 	</properties>
+	
+	<groupId>guru.springframework</groupId>
 
 	<artifactId>pet-clinic-data</artifactId>
 
@@ -54,16 +56,7 @@
 						</exclude>
 					</excludes>
 				</configuration>
-				<executions>
-					<execution>
-						<goals>
-							<goal>repackage</goal>
-						</goals>
-						<configuration>
-							<skip>true</skip>
-						</configuration>
-					</execution>
-				</executions>
+
 			</plugin>
 		</plugins>
 	</build>

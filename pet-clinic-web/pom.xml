@@ -47,6 +47,9 @@
 	</dependencies>
 
 	<artifactId>pet-clinic-web</artifactId>
+
+	<groupId>guru.springframework</groupId>
+
 	
 
 </project>

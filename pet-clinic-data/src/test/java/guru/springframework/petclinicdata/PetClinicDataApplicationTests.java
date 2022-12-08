@@ -1,13 +1,13 @@
-package guru.springframework.petclinicdata;
+// package guru.springframework.petclinicdata;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class PetClinicDataApplicationTests {
+// @SpringBootTest
+// class PetClinicDataApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }
