@@ -8,15 +8,16 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<properties>
-		<java.version>17</java.version>
-	</properties>
+
+	<groupId>guru.springframework</groupId>
+	<artifactId>pet-clinic-web</artifactId>
+	<version>1.0.2-SNAPSHOT</version>
 	
 	<dependencies>
 		<dependency>
 			<groupId>guru.springframework</groupId>
 			<artifactId>pet-clinic-data</artifactId>
-			<version>0.0.2-SNAPSHOT</version>
+			<version>1.0.2-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -45,9 +46,7 @@
 		</dependency>
 	</dependencies>
 
-	<artifactId>pet-clinic-web</artifactId>
 
-	<groupId>guru.springframework</groupId>
 
 	
 
